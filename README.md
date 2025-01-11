@@ -1,34 +1,27 @@
 # Blog Management System
-The Blog Management System is a React.js-based web application designed to facilitate blog creation, management, and exploration. It employs modern tools like Vite for development, React Router for navigation, TailwindCSS for styling, and Quill.js as a rich text editor. The system supports two user roles:
+The Blog Management System is a web application built using React.js that makes it easier to create, manage, and explore blogs. It uses current tools like as Vite for development, React Router for navigation, TailwindCSS for style, and Quill.js as a rich text editor. The system allows two user roles:
 
-Author: Can create, edit, and delete blogs.
-Reader: Can explore blogs, read detailed posts, and add comments.
-Key Features
-User Roles:
+Authors can create, modify, and remove blogs.
+Reader: You can browse blogs, read full posts, and leave comments.
+Key Features: **User Roles**
+Author: Use a customizable dashboard to manage your blogs.
+Reader: Browse blogs on the homepage, search for titles, tags, or authors, and leave comments on postings.
+Blog creation and editing are integrated with the ReactQuill editor, which allows for extensive text formatting. There is an option to add tags and submit images.
 
-Author: Access a personalized dashboard to manage authored blogs.
-Reader: Browse blogs on the homepage, search by title, tags, or author, and leave comments on posts.
-Blog Creation & Editing:
 
-Integrated with ReactQuill editor for rich text formatting.
-Option to add tags and upload images.
-Responsive Design:
+Responsive Design: Bootstrap's clean, responsive user interface. Adaptive layouts provide seamless use on any device.
+Dynamic Blog Cards summarize blog content by previewing the title, snippet, tags, author, and publication date.
+Search & Explore: Real-time search functionality for filtering blogs by title, tags, and author.
+Detailed Blog View: Shows the whole content, tags, and user comments. The option to add comments with real-time updates.
+Login System: Authors and readers can log in based on their roles, with rudimentary credential confirmation. 
 
-Clean, responsive UI using TailwindCSS.
-Adaptive layouts for seamless usage on any device.
-Dynamic Blog Cards:
 
-Summarizes blog content with a preview of title, snippet, tags, author, and publication date.
-Search & Explore:
-
-Real-time search functionality for filtering blogs based on title, tags, or author.
-Detailed Blog View:
-
-Displays full content, tags, and user comments.
-Option to add comments with real-time updates.
-Login System:
-
-Role-based login for authors and readers with basic credential validation.
+Credentials :  
+Reader : username: reader  
+         password: reader123
+Author : username: author
+         password: author123 
+        
 
 
 # Installation Guide and setting up and running the project.
