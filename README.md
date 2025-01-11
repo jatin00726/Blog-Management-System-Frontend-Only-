@@ -22,8 +22,7 @@ Credentials :
 
          
 **Author** : username: author
-             
-             password: author123 
+           password: author123 
         
 
 
