@@ -18,9 +18,11 @@ Login System: Authors and readers can log in based on their roles, with rudiment
 
 Credentials :  
 **Reader** : username: reader  
-         password: reader123
+             password: reader123
+
+         
 **Author** : username: author
-         password: author123 
+             password: author123 
         
 
 
