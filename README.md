@@ -9,7 +9,7 @@ Reader: Browse blogs on the homepage, search for titles, tags, or authors, and l
 Blog creation and editing are integrated with the ReactQuill editor, which allows for extensive text formatting. There is an option to add tags and submit images.
 
 
-Responsive Design: Bootstrap's clean, responsive user interface. Adaptive layouts provide seamless use on any device.
+Responsive Design:Used TailwindCSS and Bootstrap for clean, responsive user interface. Adaptive layouts provide seamless use on any device.
 Dynamic Blog Cards summarize blog content by previewing the title, snippet, tags, author, and publication date.
 Search & Explore: Real-time search functionality for filtering blogs by title, tags, and author.
 Detailed Blog View: Shows the whole content, tags, and user comments. The option to add comments with real-time updates.
