@@ -10,10 +10,11 @@ Blog creation and editing are integrated with the ReactQuill editor, which allow
 
 
 Responsive Design:Used TailwindCSS and Bootstrap for clean, responsive user interface. Adaptive layouts provide seamless use on any device.
-Dynamic Blog Cards summarize blog content by previewing the title, snippet, tags, author, and publication date.
+Dynamic Blog Cards summarize blog content by previewing the title, snippet, tags, author, publication date and Read more.
 Search & Explore: Real-time search functionality for filtering blogs by title, tags, and author.
-Detailed Blog View: Shows the whole content, tags, and user comments. The option to add comments with real-time updates.
+Detailed Blog View: **Once you see a Blog card  in Dashboard or HomePag click on the Read More**  link to Shows the whole content, tags, and user comments. The option to add comments with real-time updates.
 Login System: Authors and readers can log in based on their roles, with rudimentary credential confirmation. 
+
 
 
 Credentials :  
